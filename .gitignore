@@ -1,0 +1,9 @@
+﻿.venv/
+data/
+__pycache__/
+*.py[cod]
+*.keras
+*.h5
+*.zip
+.env
+my_face.*
